@@ -1,0 +1,8 @@
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/orkut"
+  to = "/.netlify/functions/orkut"
+  status = 200
+  force = true
