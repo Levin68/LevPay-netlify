@@ -1,0 +1,8 @@
+{
+  "name": "levpay-netlify",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
